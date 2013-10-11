@@ -1,0 +1,10 @@
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\bin\Debug\SignalRConsole.exe.config
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\bin\Debug\SignalRConsole.exe
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\bin\Debug\SignalRConsole.pdb
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\bin\Debug\Newtonsoft.Json.dll
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\bin\Debug\Newtonsoft.Json.xml
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\obj\Debug\SignalRConsole.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\obj\Debug\SignalRConsole.exe
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\SignalRProject\SignalRConsole\obj\Debug\SignalRConsole.pdb

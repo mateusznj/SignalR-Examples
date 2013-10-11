@@ -1,0 +1,7 @@
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\Przykład2\SignalR MoveShape demo\C#\MoveShapeDemo\bin\MoveShapeDemo.dll
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\Przykład2\SignalR MoveShape demo\C#\MoveShapeDemo\bin\MoveShapeDemo.pdb
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\Przykład2\SignalR MoveShape demo\C#\MoveShapeDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\Przykład2\SignalR MoveShape demo\C#\MoveShapeDemo\bin\Microsoft.Web.Infrastructure.xml
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\Przykład2\SignalR MoveShape demo\C#\MoveShapeDemo\obj\Debug\MoveShapeDemo.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\Przykład2\SignalR MoveShape demo\C#\MoveShapeDemo\obj\Debug\MoveShapeDemo.dll
+D:\SkyDrive\Programowanie\PREZENTACJA\SignalR\Przykład2\SignalR MoveShape demo\C#\MoveShapeDemo\obj\Debug\MoveShapeDemo.pdb
