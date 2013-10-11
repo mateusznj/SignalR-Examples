@@ -1,5 +1,5 @@
 ﻿# Przykłady SignalR 
-Są to przykładowe projekty wykorzstujące SignalR napsiane na podstawie przykładów ze strony SignalR (linki są w prezentacji)
+Są to przykładowe projekty wykorzystujące SignalR napsiane na podstawie przykładów ze strony SignalR (linki są w prezentacji)
 
 ## Uwaga !!!
 W przypadku SignalRDatabase wymagane jest utworzenie bazy danych "SignalRDatabase\database.sql" 
